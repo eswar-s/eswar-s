@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/eswar"><img src="https://api.daily.dev/devcards/8b2e8a4ec0cf4a7caff5e2b08048b883.png?r=xln" width="300" alt="Eswar V's Dev Card"/></a>
+
 # MyResume
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.2.
